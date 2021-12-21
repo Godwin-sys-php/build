@@ -1,0 +1,2 @@
+.blink{animation-duration:.1s;animation-name:blink;animation-iteration-count:infinite;animation-direction:alternate}.blink,.blink2{width:50vw;height:100vh;z-index:10;background-color:tomato;justify-content:center;align-items:center;text-align:center}@keyframes blink{0%{opacity:1;color:#fff}to{opacity:0;color:tomato}}
+/*# sourceMappingURL=main.f8ab3522.chunk.css.map */
